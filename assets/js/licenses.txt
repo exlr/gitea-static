@@ -21,7 +21,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
-codemirror@5.61.0 - MIT
+codemirror@5.65.0 - MIT
 --------------------------------------------------------------------------------
 MIT License
 
@@ -123,7 +123,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
-easymde@2.15.0 - MIT
+easymde@2.16.1 - MIT
 --------------------------------------------------------------------------------
 The MIT License (MIT)
 
@@ -275,7 +275,7 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
-marked@2.0.3 - MIT
+marked@4.0.10 - MIT
 --------------------------------------------------------------------------------
 # License information
 
