@@ -67,7 +67,9 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             <td class="lines-type-marker"></td>
             <td class="add-comment-right"></td>
           `:`
-            <td colspan="3" class="lines-num"></td>
+            <td class="lines-num"></td>
+            <td class="lines-num"></td>
+            <td class="lines-escape"></td>
             <td class="add-comment-left add-comment-right" colspan="2"></td>
           `}
         </tr>`),v.after(C));const J=C.find(`.add-comment-${n}`);let ke=J.find(".comment-code-cloud");if(ke.length===0&&!C.find('button[name="is_review"]').length){const ge=yield $.get($(this).closest("[data-new-comment-url]").data("new-comment-url"));J.html(ge),ke=J.find(".comment-code-cloud"),Uu(ke.find(".menu")),J.find("input[name='line']").val(a),J.find("input[name='side']").val(n==="left"?"previous":"proposed"),J.find("input[name='path']").val(c);const Be=ke.find("textarea");yield Fa(Be.get(),{mentions:!0,emoji:!0});const dt=yield Ba(Be);Be.focus(),dt.codemirror.focus()}})}))}function fv(){$(document).on("click",".reference-issue",function(e){const t=$(this);t.closest(".dropdown").find(".menu").toggle("visible");const i=$(`#comment-${t.data("target")}`).text(),n=t.data("poster-username"),a=t.data("reference"),c=$(t.data("modal"));c.find('textarea[name="content"]').val(`${i}

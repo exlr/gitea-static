@@ -21,7 +21,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
-codemirror@5.65.0 - MIT
+codemirror@5.65.1 - MIT
 --------------------------------------------------------------------------------
 MIT License
 
@@ -339,7 +339,7 @@ any theory of liability, whether in contract, strict liability, or tort
 software, even if advised of the possibility of such damage.
 
 --------------------------------------------------------------------------------
-mermaid@8.13.9 - MIT
+mermaid@8.13.10 - MIT
 --------------------------------------------------------------------------------
 The MIT License (MIT)
 
@@ -511,7 +511,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
-swagger-ui-dist@4.1.3 - Apache-2.0
+swagger-ui-dist@4.2.1 - Apache-2.0
 --------------------------------------------------------------------------------
 
 Apache License
