@@ -339,7 +339,7 @@ any theory of liability, whether in contract, strict liability, or tort
 software, even if advised of the possibility of such damage.
 
 --------------------------------------------------------------------------------
-mermaid@8.13.10 - MIT
+mermaid@8.14.0 - MIT
 --------------------------------------------------------------------------------
 The MIT License (MIT)
 
